@@ -3,6 +3,6 @@
 """
 
 ## input
-
+year_born = input("Enter your year of birth in AD :")
 
 ## print year after cal
